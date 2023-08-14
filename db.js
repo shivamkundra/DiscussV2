@@ -7,4 +7,5 @@ connectToMongo = () => {
     console.log("connected to mongo");
   });
 };
+
 module.exports = connectToMongo;
